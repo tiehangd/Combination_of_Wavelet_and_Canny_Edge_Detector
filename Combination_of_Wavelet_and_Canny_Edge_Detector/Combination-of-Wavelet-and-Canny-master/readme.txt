@@ -6,7 +6,4 @@ haar_auto_noise.py: the implementation on Gaussian noise image.
 haar_auto_noise2.py: the implementation on Salt Pepper noise image.
 
 
-
-Contact Information: tiehangd@buffalo.edu
-
 ######################################################
